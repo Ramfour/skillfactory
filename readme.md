@@ -7,7 +7,7 @@
 ![git-logo](./assets/1color-darkbg@2x.png)
 ---
 
-## Содержание \*
+## 🥳Содержание \*
 
 1. [git config](git-config.md)
 2. [git init](git-init.md)
@@ -26,6 +26,8 @@
 Git Logo by Jason Long - https://git-scm.com/downloads/logos,
 licensed under the [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/)
 
-
+<details>
+<summary>Нажми для цитаты</summary>
 >git становится проще, когда вы поймете основную идею, что ветки - это гомеоморфные эндофункторы, отображающие подмногообразия гильбертова пространства
 >>Isaac Wolkerstorfer ~~(‏@agnoster)~~
+</details>
