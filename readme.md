@@ -28,6 +28,8 @@ licensed under the [Creative Commons Attribution 3.0 Unported License](https://c
 
 <details>
 <summary>Нажми для цитаты</summary>
+
 >git становится проще, когда вы поймете основную идею, что ветки - это гомеоморфные эндофункторы, отображающие подмногообразия гильбертова пространства
 >>Isaac Wolkerstorfer ~~(‏@agnoster)~~
+
 </details>
