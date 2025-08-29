@@ -25,3 +25,7 @@ LICENCE: [MIT][def]
 
 Git Logo by Jason Long - https://git-scm.com/downloads/logos,
 licensed under the [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/)
+
+>git становится проще, когда вы поймете основную идею, что ветки - это гомеоморфные эндофункторы, отображающие подмногообразия гильбертова пространства
+
+~Isaac Wolkerstorfer(‏@agnoster)
