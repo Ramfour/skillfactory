@@ -19,6 +19,7 @@ LICENCE: [MIT][def]
 8. [git pull](git-pull.md)
 9. [git push](git-push.md)
 10. [git status](git-status.md)
+---
 
 
 
