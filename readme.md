@@ -1,13 +1,13 @@
 # Инструкция по работе с GIT
 
-LICENCE: [MIT][def]
+<u> LICENCE: [MIT][def] </u>
 
-[def]: ./license.md
+[def]: ./license.md "Ccылка"
 
 ![git-logo](./assets/1color-darkbg@2x.png)
 ---
 
-## Содержание
+## Содержание \*
 
 1. [git config](git-config.md)
 2. [git init](git-init.md)
@@ -26,6 +26,6 @@ LICENCE: [MIT][def]
 Git Logo by Jason Long - https://git-scm.com/downloads/logos,
 licensed under the [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/)
 
->git становится проще, когда вы поймете основную идею, что ветки - это гомеоморфные эндофункторы, отображающие подмногообразия гильбертова пространства
 
-~Isaac Wolkerstorfer(‏@agnoster)
+>git становится проще, когда вы поймете основную идею, что ветки - это гомеоморфные эндофункторы, отображающие подмногообразия гильбертова пространства
+>>Isaac Wolkerstorfer ~~(‏@agnoster)~~
